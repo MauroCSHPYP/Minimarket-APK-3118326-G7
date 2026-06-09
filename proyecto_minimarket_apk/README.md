@@ -1,16 +1,11 @@
-# proyecto_minimarket_apk
+# Proyecto Minimarket (APK)
 
-A new Flutter project.
+Proyecto desarrollado en Flutter.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Proyecto Minimarket (APK) - SENA - Ficha: 3118326 - Grupo 7.
 
-A few resources to get you started if this is your first Flutter project:
+***Integrantes***
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Mauricio Arias Olave
