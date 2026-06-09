@@ -1,0 +1,10 @@
+List<Map<String, dynamic>> inventario_productos = [
+  {"ID_INVENTARIO": 1, "ID_PRODUCTO": 1, "CANTIDAD": 44},
+  {"ID_INVENTARIO": 2, "ID_PRODUCTO": 2, "CANTIDAD": 16},
+  {"ID_INVENTARIO": 3, "ID_PRODUCTO": 3, "CANTIDAD": 28},
+  {"ID_INVENTARIO": 4, "ID_PRODUCTO": 4, "CANTIDAD": null},
+  {"ID_INVENTARIO": 5, "ID_PRODUCTO": 5, "CANTIDAD": null},
+  {"ID_INVENTARIO": 6, "ID_PRODUCTO": 6, "CANTIDAD": 82},
+  {"ID_INVENTARIO": 7, "ID_PRODUCTO": 7, "CANTIDAD": null},
+  {"ID_INVENTARIO": 8, "ID_PRODUCTO": 8, "CANTIDAD": null},
+];
